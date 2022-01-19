@@ -1,8 +1,8 @@
 # ENEL645
-This repository is dedicated to assignmen's files of ENEL 645 course from the University of Calgary.
+This repository is allocated to assignmen's files of the ENEL 645 course from the University of Calgary.
 ## Group members are:
 - Annie Bugbird
 - Maryam Zarabian
-- Neha
-- Arman Sarraf
+- Neha Gianchandani
+- Arman Hosseinsarraf
 - Alireza Alemi
