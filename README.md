@@ -4,6 +4,6 @@ This repository is allocated to assignment's files of the ENEL 645 course from t
 - Annie Bugbird
 - Maryam Zarabian
 - Neha Gianchandani
-- Arman Hosseinsarraf | UCID: 30145924
+- Arman Hosseinsarraf
 - Alireza (Tony) Alemi
-- Mahsa Malek
+- Mahsa Malek(30168376)
