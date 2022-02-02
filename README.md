@@ -1,5 +1,5 @@
 # ENEL645
-This repository is allocated to assignment's files of the ENEL 645 (Winter 2022) course from the University of Calgary. The course instructor is Prof. Roberto Souza (@rmsouza01)
+This repository is allocated to assignment's files of the ENEL 645 (Winter 2022) course from the University of Calgary. The course instructor is Dr Roberto Souza (@rmsouza01)
 ## Group members are:
 - Annie Bugbird        | UCID: 30164591
 - Maryam Zarabian      | UCID: 30156137
